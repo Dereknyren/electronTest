@@ -1,0 +1,23 @@
+{
+  "name": "electrontest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dereknyren/electronTest.git"
+  },
+  "author": "Derek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dereknyren/electronTest/issues"
+  },
+  "homepage": "https://github.com/Dereknyren/electronTest#readme",
+  "devDependencies": {
+    "electron": "^25.1.0"
+  }
+}
